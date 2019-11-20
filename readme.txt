@@ -20,4 +20,5 @@ creating a new branch is quick and simple.
 insert two contents..
 =======
 insert One centers.
+hello
 >>>>>>> feature1
