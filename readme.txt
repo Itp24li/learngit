@@ -21,4 +21,5 @@ insert two contents..
 =======
 insert One centers.
 hello
+i
 >>>>>>> feature1
