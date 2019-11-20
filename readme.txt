@@ -10,3 +10,4 @@ Git has a mutable index called stage.
 =======
 新家园如一条内容
 >>>>>>> d38973a29781823de743840575797c9202ca640a
+加入一天分支内容
