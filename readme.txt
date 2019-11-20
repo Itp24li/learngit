@@ -5,3 +5,4 @@ Git is free software distributed under the GPl.
 Git has a mutable index called stage.
 新加入的内容
 现在时间下午3:24星期三
+新家园如一条内容
