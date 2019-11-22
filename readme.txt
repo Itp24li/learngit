@@ -10,5 +10,14 @@ Git has a mutable index called stage.
 加入一天分支内容
 Creating a new branch is quick & simple.
 creating a new branch is quick and simple.
+<<<<<<< HEAD
 insert One centers.
 hello
+=======
+insert two contents..
+insert One centers.
+hello
+i
+tijiao
+insert new centent
+>>>>>>> dev
